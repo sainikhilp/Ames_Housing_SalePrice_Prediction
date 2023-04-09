@@ -6,7 +6,7 @@ The link for the data set can be found at:
 
 The data was modified by dealing with the outliers, missing values and the categorical data.
 
-By using the ElasticNet regression model and using GridSearch approach, we got the final predicted values to be 10% off from the mean sales price.
+By using the ElasticNet regression model and using GridSearch approach, the final predicted values were found to be 10% off from the mean sales price.
 
 Final Conclusion:
 * 10% off is a reasonable error considering the real-estate price fluctuations.
